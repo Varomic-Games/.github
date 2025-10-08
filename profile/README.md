@@ -1,4 +1,9 @@
-## Hi there 👋
+## Varomic Games
+
+<img src="https://cdn.varomicgames.com/images/VaromicGames.webp"></img>
+
+We are Varomic Games, a game studio for creating games for fun but with passion.
+
 
 <!--
 
